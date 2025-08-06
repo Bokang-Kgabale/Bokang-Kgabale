@@ -54,7 +54,8 @@ Looking to collaborate on:
 ## 🌉 𝗖𝗼𝗻𝗻𝗲𝗰𝘁  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bokang-kgabale-4a7a4b324)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://bokang-kgabale-portfolio.netlify.app)  
 
----
+-----
 
 ![Sanji](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJxZ3ZobDl6dHlwaW02bnd2M2traTk3N3A1ejJzOGhmdmhwYXNrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bOQeC2SNniMNy/giphy.gif) <br> *ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ sᴛᴏᴘᴘɪɴɢ ʙʏ!*  
