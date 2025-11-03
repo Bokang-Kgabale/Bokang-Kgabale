@@ -5,7 +5,7 @@
 
 ## 💫 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲  
 - 🔭 𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚋𝚢 𝚍𝚊𝚢, 𝙰𝙸 𝚎𝚡𝚙𝚕𝚘𝚛𝚎𝚛 𝚋𝚢 𝚗𝚒𝚐𝚑𝚝  
-- 🌱 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 learning: **𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 & Artificial Intelligence**  
+- 🌱 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 learning: **Artificial Intelligence**  
 - 🛠️ 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 **𝚌𝚛𝚘𝚜𝚜-𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖 𝚍𝚎𝚟 & fullstack engineering**  
 
 ---
