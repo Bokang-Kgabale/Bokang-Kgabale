@@ -1,61 +1,96 @@
-# 𝗛𝗲𝗹𝗹𝗼, 𝗖𝗼𝗱𝗲𝗿! 👾  
-**𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗻𝗲𝗼𝗻-𝗹𝗶𝘁 𝗱𝗶𝗴𝗶𝘁𝗮𝗹𝗶𝗻𝗲.**  
+# 𝗛𝗲𝗹𝗹𝗼, 𝗜'𝗺 𝗕𝗼𝗸𝗮𝗻𝗴 👾
+
+**𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗻𝗲𝗼𝗻-𝗹𝗶𝘁 𝗱𝗶𝗴𝗶𝘁𝗮𝗹𝗶𝗻𝗲.**
 
 ---
 
-## 💫 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲  
-- 🔭 𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚋𝚢 𝚍𝚊𝚢, 𝙰𝙸 𝚎𝚡𝚙𝚕𝚘𝚛𝚎𝚛 𝚋𝚢 𝚗𝚒𝚐𝚑𝚝  
-- 🌱 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 learning: **Artificial Intelligence**  
-- 🛠️ 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 **𝚌𝚛𝚘𝚜𝚜-𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖 𝚍𝚎𝚟 & fullstack engineering**  
+## 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
+
+```dart
+const bokang = {
+  role:     "Full-Stack Software Engineer",
+  location: "South Africa 🇿🇦",
+  shipped:  ["Pampiri (Google Play)", "Umoja Lease System", "Telehealth Platform"],
+  building: "AI-powered mobile & web applications",
+  open_to:  "Full-time · Contract · Remote"
+};
+```
 
 ---
 
-## 🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸  
-### 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  
+## 𝗦𝗵𝗶𝗽𝗽𝗲𝗱 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝘀
 
-### 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
-
-### 𝗖𝗹𝗼𝘂𝗱 & 𝗗𝗲𝘃𝗢𝗼𝗽𝘀  
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
+| Project | Stack | Live |
+|---|---|---|
+| **Pampiri** — AI Receipt Scanner | Flutter · FastAPI · DeepSeek AI · Docker | [▶ Google Play](https://play.google.com/store/apps/details?id=com.nexmotiontechnologies.pampiri) |
+| **Umoja Lease System** | React 18 · TypeScript · Firebase · Node.js | [▶ Live Site](https://leasing.umojastudents.co.za) |
+| **Telehealth Platform** | Django · React · WebRTC · OCR | [▶ Live Site](https://fir-rtc-521a2.web.app/) |
+| **NexMotion Client Sites** | React · Tailwind · Firebase | [▶ Portfolio](https://nexmotiontechnologies.co.za/projects.html) |
 
 ---
 
-## 📈 𝗚𝗶𝘁𝗛𝘂𝗯 𝗠𝗲𝘁𝗿𝗶𝗰𝘀  
+## 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+
+**Languages**
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+**Mobile & Frontend**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Infrastructure**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## 𝗚𝗶𝘁𝗛𝘂𝗯 𝗠𝗲𝘁𝗿𝗶𝗰𝘀
+
 | ![Stats](https://github-readme-stats.vercel.app/api?username=Bokang-Kgabale&theme=nightowl&show_icons=true&hide_border=true&count_private=true) | ![Streak](https://nirzak-streak-stats.vercel.app/?user=Bokang-Kgabale&theme=nightowl&hide_border=true) |
-|------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| --- | --- |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bokang-Kgabale&layout=compact&theme=nightowl&hide_border=true)
 
 ---
 
-## 🏆 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bokang-Kgabale&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+## 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bokang-Kgabale&theme=nord&no-frame=true&no-bg=true&margin-w=4)](https://github.com/Bokang-Kgabale)
 
 ---
 
-## 🤝 𝗖𝗼𝗹𝗹𝗮𝗯 𝗢𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀  
-Looking to collaborate on:  
-- 🤖 𝙼𝙻/𝙰𝙸 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚠𝚒𝚝𝚑 𝚛𝚎𝚊𝚕-𝚠𝚘𝚛𝚕𝚍 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜  
-- 🌐 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚍𝚎𝚟 𝚒𝚗𝚒𝚝𝚒𝚊𝚝𝚒𝚟𝚎𝚜  
-- 🔥 𝙾𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜  
+## 𝗖𝗼𝗹𝗹𝗮𝗯 𝗢𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀
+
+Looking to collaborate on:
+
+* AI/ML projects with real-world applications
+* Full-stack dev initiatives
+* Open-source contributions
 
 ---
 
-## 🌉 𝗖𝗼𝗻𝗻𝗲𝗰𝘁  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bokang-kgabale-4a7a4b324)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://bokang-kgabale-portfolio.netlify.app)  
+## 𝗖𝗼𝗻𝗻𝗲𝗰𝘁
 
------
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=netlify&logoColor=white)](https://bokang-kgabale-portfolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bokang-kgabale-4a7a4b324)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bokangkgabale33889@gmail.com)
+[![Google Play](https://img.shields.io/badge/Pampiri_on_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.nexmotiontechnologies.pampiri)
 
-![Sanji](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJxZ3ZobDl6dHlwaW02bnd2M2traTk3N3A1ejJzOGhmdmhwYXNrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bOQeC2SNniMNy/giphy.gif) <br> *ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ sᴛᴏᴘᴘɪɴɢ ʙʏ!*  
+---
+
+[![Sanji](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJxZ3ZobDl6dHlwaW02bnd2M2traThfdk9pbmlxbF9iaTgmY3Q9Zw/bOQeC2SNniMNy/giphy.gif)](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJxZ3ZobDl6dHlwaW02bnd2M2traThfdk9pbmlxbF9iaTgmY3Q9Zw/bOQeC2SNniMNy/giphy.gif)
+
+*ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ sᴛᴏᴘᴘɪɴɢ ʙʏ!*
