@@ -93,5 +93,5 @@ const bokang = {
 [![Google Play](https://img.shields.io/badge/pampiri_app-0f172a?style=flat-square&logo=googleplay&logoColor=00F7FF)](https://play.google.com/store/apps/details?id=com.nexmotiontechnologies.pampiri)
 
 ---
-
+![Sanji](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJxZ3ZobDl6dHlwaW02bnd2M2traTk3N3A1ejJzOGhmdmhwYXNrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bOQeC2SNniMNy/giphy.gif)  
 *ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ sᴛᴏᴘᴘɪɴɢ ʙʏ!*
