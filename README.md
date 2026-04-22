@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼, 𝗖𝗼𝗱𝗲𝗿! 👾  
+# 𝗛𝗲𝗹𝗹𝗼, 𝗖𝗼𝗱𝗲𝗿! 👾   
 **𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗻𝗲𝗼𝗻-𝗹𝗶𝘁 𝗱𝗶𝗴𝗶𝘁𝗮𝗹𝗶𝗻𝗲.**
 
 ---
@@ -56,7 +56,7 @@ const bokang = {
 
 ## 📈 𝗚𝗶𝘁𝗛𝘂𝗯 𝗠𝗲𝘁𝗿𝗶𝗰𝘀
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Bokang-Kgabale&theme=nightowl&show_icons=true&hide_border=true&count_private=true) | ![Streak](https://nirzak-streak-stats.vercel.app/?user=Bokang-Kgabale&theme=nightowl&hide_border=true) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Bokang-Kgabale&theme=nightowl&show_icons=true&hide_border=true&count_private=true) | ![Streak](https://streak-stats.demolab.com?user=Bokang-Kgabale&theme=nightowl&hide_border=true) |
 |---|---|
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bokang-Kgabale&layout=compact&theme=nightowl&hide_border=true)
@@ -72,9 +72,9 @@ const bokang = {
 ## 🤝 𝗖𝗼𝗹𝗹𝗮𝗯 𝗢𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀
 
 Looking to collaborate on:
-- 🤖 𝙼𝙻/𝙰𝙸 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚠𝚒𝚝𝚑 𝚛𝚎𝚊𝚕-𝚠𝚘𝚛𝚕𝚍 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜
-- 🌐 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚍𝚎𝚟 𝚒𝚗𝚒𝚝𝚒𝚊𝚝𝚒𝚟𝚎𝚜
-- 🔥 𝙾𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜
+- 🤖 ML/AI projects with real-world applications
+- 🌐 Full-stack dev initiatives
+- 🔥 Open-source contributions
 
 ---
 
@@ -87,4 +87,5 @@ Looking to collaborate on:
 
 ---
 
-![Sanji](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJxZ3ZobDl6dHlwaW02bnd2M2traTk3N3A1ejJzOGhmdmhwYXNrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bOQeC2SNniMNy/giphy.gif) <br> *ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ sᴛᴏᴘᴘɪɴɢ ʙʏ!*
+![Sanji](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJxZ3ZobDl6dHlwaW02bnd2M2traTk3N3A1ejJzOGhmdmhwYXNrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bOQeC2SNniMNy/giphy.gif)  
+*ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ sᴛᴏᴘᴘɪɴɢ ʙʏ!*
