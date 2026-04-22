@@ -1,11 +1,15 @@
 # Bokang Kgabale
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Flutter+%7C+React+%7C+Python+%7C+FastAPI;Shipped+on+Google+Play+%26+Production+Web;Open+to+Work+%F0%9F%87%BF%F0%9F%87%A6" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hello+there.;I+build+real-world+software.;Full-Stack+Engineer+%7C+AI+%7C+Mobile+%7C+Web" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bokang-Kgabale&color=00F7FF&style=flat-square" />
+</p>
+
+<p align="center">
+  <sub>Focused on building practical systems, not just demos.</sub>
 </p>
 
 ---
@@ -80,7 +84,7 @@ const bokang = {
 ## Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bokang-Kgabale/Bokang-Kgabale/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Bokang-Kgabale/Bokang-Kgabale/output/github-contribution-grid-snake.svg?v=2" />
 </p>
 
 ---
